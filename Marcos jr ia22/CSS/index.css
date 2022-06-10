@@ -1,0 +1,22 @@
+*{
+ margin: 0;
+}
+.titulo{
+    background-color: coral;
+    color: white;
+    padding: 20px;
+}
+.titulo1{
+    font-family: 'Dancing Script', cursive;
+    padding: 20px;
+}
+.text{
+    padding: 20px;
+}
+.image img{
+    border: 5px black solid;
+}
+.image{
+    padding: 20px;
+    padding-left: 20px;
+}
